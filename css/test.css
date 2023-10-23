@@ -1,0 +1,11 @@
+
+		body{background-color:lightcoral;}
+		h1{font-size: 50px;color: aquamarine;}
+		h2{color: navy;}
+		.huge{font-size: 100px;}
+		.tiny{font-size: 8px;}
+		.uc{text-transform: uppercase;}
+		.huge.uc{color: bisque;}
+		h1 span{color: seagreen;}
+		span{color: burlywood;}
+	</style>
